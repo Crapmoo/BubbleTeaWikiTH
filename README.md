@@ -1,2 +1,2 @@
-# chanomeweb
+# BubbleTeaWikiTH
 bubbletea
